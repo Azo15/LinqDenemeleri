@@ -10,7 +10,7 @@ public class Student
     public int Age { get; set; }
 
     public override string ToString()
-    {
+    { 
         return $"Ad: {Name}, Yaş: {Age}";
     }
 }
