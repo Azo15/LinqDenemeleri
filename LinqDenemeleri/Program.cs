@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-
+ 
 // 1. Veri Yapısı (Student Sınıfı)
  
 public class Student
