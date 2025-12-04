@@ -13,7 +13,7 @@ public class Student
     { 
         return $"Ad: {Name}, Yaş: {Age}";
     }
-}
+} 
  
 class Program
 {
